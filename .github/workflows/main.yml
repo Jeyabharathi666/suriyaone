@@ -27,4 +27,4 @@ jobs:
       - name: Run Python script
         env:
           GOOGLE_CREDENTIALS: ${{ secrets.GOOGLE_CREDENTIALS }}
-        run: python suriyaone.py
+        run: python suriyaonep3.py
