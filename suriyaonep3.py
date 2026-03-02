@@ -4,7 +4,7 @@ import google_sheets
 import time
 
 URLS = [
-    "https://chartink.com/screener/copy-copy-copy-sreelakshmi-guruvayoorappan-b-atr-volume-rocket-8",
+     "https://chartink.com/screener/copy-copy-copy-sreelakshmi-guruvayoorappan-b-atr-volume-rocket-8",
     "https://chartink.com/screener/agp-bullish2-p5",
     "https://chartink.com/screener/aaa13-vp-sheshapathi",
     "https://chartink.com/screener/agp-shesha-bulloong1",
@@ -23,14 +23,14 @@ URLS = [
     "https://chartink.com/screener/copy-atp-above-long-fut1",
     "https://chartink.com/screener/copy-copy-daily-min-f-0-trade-2",
     "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
-    "https://chartink.com/screener/copy-multibagar-5",
     "https://chartink.com/screener/copy-the-best-btst-193",
     "https://chartink.com/screener/22-nw-shesha-magic-buy-love",
     "https://chartink.com/screener/copy-richie-rich-f-0-2",
     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
     "https://chartink.com/screener/copy-sjbl6ch-shesha-buy-bollinger-band-weekly",
     "https://chartink.com/screener/copy-copy-bb-blaster-2",
-    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-16"]
+    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-16",
+    "https://chartink.com/screener/copy-multibagar-5" ]
        
 sheet_id = "18uM89Cjv6_DZmAbLXyNUFciVrGUBizbQLsrRZhNIDK0"
 worksheet_names = [
