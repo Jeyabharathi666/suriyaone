@@ -19,12 +19,18 @@ URLS = [
      "https://chartink.com/screener/50stocks-in-downtrend",
      "https://chartink.com/screener/copy-perfect-bearish-3537",
      "https://chartink.com/screener/copy-chanakya-bearish-scanner-working-2803",
-    "https://chartink.com/screener/copy-copy-daily-min-f-0-trade-2",
-    "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
-    "https://chartink.com/screener/copy-the-best-btst-193",
-    "https://chartink.com/screener/22-nw-shesha-magic-buy-love",
-    "https://chartink.com/screener/copy-richie-rich-f-0-2",
-    "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend"
+     "https://chartink.com/screener/copy-copy-daily-min-f-0-trade-2",
+     "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
+     "https://chartink.com/screener/copy-the-best-btst-193",
+     "https://chartink.com/screener/22-nw-shesha-magic-buy-love",
+     "https://chartink.com/screener/copy-richie-rich-f-0-2",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
+     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend"
      ]
        
 sheet_id = "18uM89Cjv6_DZmAbLXyNUFciVrGUBizbQLsrRZhNIDK0"
