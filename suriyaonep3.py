@@ -4,6 +4,8 @@ import google_sheets
 import time
 
 URLS = [
+     "https://chartink.com/screener/copy-copy-copy-explosive-move-day-coming-in-1-2-days",
+     "https://chartink.com/screener/copy-multibagar-5",
      "https://chartink.com/screener/50-sreelakshmi-guruvayoorappan-b-atr-volume-rocket",
      "https://chartink.com/screener/50agp-bullish2-p5",
      "https://chartink.com/screener/50aaa13-vp-sheshapathi",
@@ -14,29 +16,25 @@ URLS = [
      "https://chartink.com/screener/50-the-best-btst",
      "https://chartink.com/screener/50-22-nw-shesha-magic-buy-love",
      "https://chartink.com/screener/50-bearish-maribozu",
-     "https://chartink.com/screener/50-bearish-engulifing-see-after-3-15-pm-for-next-day-trade",
-     "https://chartink.com/screener/50aaaagp-shesha-bearish-2",
-     "https://chartink.com/screener/50stocks-in-downtrend",
-     "https://chartink.com/screener/copy-perfect-bearish-3537",
-     "https://chartink.com/screener/copy-chanakya-bearish-scanner-working-2803",
-     "https://chartink.com/screener/copy-copy-daily-min-f-0-trade-2",
-     "https://chartink.com/screener/copy-atr-volume-f-o-200-wkly-rsi-70-new",
-     "https://chartink.com/screener/copy-the-best-btst-193",
-     "https://chartink.com/screener/22-nw-shesha-magic-buy-love",
-     "https://chartink.com/screener/copy-richie-rich-f-0-2",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend",
-     "https://chartink.com/screener/all-u1-nk-sir-s-uptrend-stocks-all-time-uptrend"
-     ]
+     "https://chartink.com/screener/copy-w6-f-o-2",
+     "https://chartink.com/screener/copy-1week-sell-twist",
+     "https://chartink.com/screener/copy-weekly-bollinger-sell-3",
+     "https://chartink.com/screener/sell-postesttttttttttttttttt",
+     "https://chartink.com/screener/copy-cci-below-100-62",
+     "https://chartink.com/screener/copy-bearish-rsi-stoc-1215",
+     "https://chartink.com/screener/srf-narayana-futures-positional-bearish",
+     "https://chartink.com/screener/sell-bollinger-band-weekly-15",
+     "https://chartink.com/screener/copy-bolinger-band-bearish-reversal-aps-401",
+     "https://chartink.com/screener/copy-ut-sell-eod-basis-5",
+     "https://chartink.com/screener/copy-sell-f-0",
+     "https://chartink.com/screener/copy-perfect-bearish-3266",
+     "https://chartink.com/screener/copy-copy-copy-explosive-move-day-coming-in-1-2-days"
+]
        
 sheet_id = "18uM89Cjv6_DZmAbLXyNUFciVrGUBizbQLsrRZhNIDK0"
 worksheet_names = [
     "p1","p2","p3","p4","p5","p6","p7","p8","p9","p10",
-    "p11","p12","p13","p14","p15","p16","p17","p18","p19","p20","p21","p22","p23","p24","p25","p26","p27"]
+    "p11","p12","p13","p14","p15","p16","p17","p18","p19","p20","p21","p22","p23","p24","p25"]
 
 def scrape_chartink(url, worksheet_name):
     print(f"\n🚀 Starting scrape for '{worksheet_name}'")
